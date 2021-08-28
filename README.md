@@ -19,3 +19,4 @@ in orther to send an email with the code provided by sendMail.php  you neeed to 
 
 ```
 
+3. if you are sure thet you have done everything right probably sending emails is blocked by your host check the config and try again :)
